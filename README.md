@@ -108,7 +108,7 @@ Password for 'https://<username>@github.com':
 
 > Your site may still not be accessible, because github pages by default looks for sites made with jekyll.
 
-## **Important:** Add .nojekyll file to root of your pages repo
+## **Important:** Add .nojekyll file to root of your `gh-pages` branch
 
 It is now possible to completely bypass Jekyll processing on GitHub Pages by creating a file named .nojekyll in the root of your pages repo and pushing it to GitHub.
 
